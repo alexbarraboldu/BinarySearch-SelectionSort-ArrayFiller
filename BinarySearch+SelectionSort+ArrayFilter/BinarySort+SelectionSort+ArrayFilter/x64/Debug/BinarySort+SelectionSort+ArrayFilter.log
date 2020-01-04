@@ -1,0 +1,10 @@
+﻿  BinarySort+SelectionSort+ArrayFilter.cpp
+C:\Users\alexb\source\repos\BinarySearch+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter.cpp(17,40): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\alexb\source\repos\BinarySearch+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter.cpp(18,36): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\alexb\source\repos\BinarySearch+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter.cpp(19,30): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\alexb\source\repos\BinarySearch+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter.cpp(22,31): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\alexb\source\repos\BinarySearch+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter.cpp(23,31): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  SelectionSort.cpp
+  Generando código...
+C:\Users\alexb\source\repos\BinarySearch+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter\BinarySort+SelectionSort+ArrayFilter.cpp(24,31): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  BinarySort+SelectionSort+ArrayFilter.vcxproj -> C:\Users\alexb\source\repos\BinarySearch+SelectionSort+ArrayFilter\x64\Debug\BinarySort+SelectionSort+ArrayFilter.exe
